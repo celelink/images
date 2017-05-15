@@ -1,3 +1,1 @@
-1.∫£œ °¢1.jpg
-2.∫£œ °¢1.jpg
-3.∫£œ °¢1.jpg
+(function(){var w=[];var add={now:'2017-05-15 8:23:09',time:'1494807789',update:'',error:'2',total:'0'};window.SWther={w:w,add:add};})();//0
