@@ -1,1 +1,2 @@
-{now:'2017-05-15 8:23:09',time:'1494807789',update:'',error:'2',total:'0'}
+<?php
+header('Access-Control-Allow-Origin: *');
